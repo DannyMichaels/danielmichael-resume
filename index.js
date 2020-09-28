@@ -12,6 +12,6 @@ fs.readFile(__dirname + '/info.json', 'utf8', function(err, data) {
     }
 })
 
-// "bin": {
-//   "resume-me": "./index.js"
-// },
+"bin": {
+  "resume-me": "./index.js"
+},

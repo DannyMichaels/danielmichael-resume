@@ -4,5 +4,9 @@
   "lindedin": "https://www.linkedin.com/in/daniel-michael-718825155/",
   "github": "dannymichaels",
   "email": "itzdanielmichael@gmail.com",
-  "skills": ["JavaScript", "HTML", "CSS"],
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
 }
